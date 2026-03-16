@@ -40,3 +40,9 @@ The analysis process began by calculating the basic statistical metrics of pollu
 
 ### d) Deliverables
 The main deliverables of the project include a structured Concept Note, prepared in PDF format in accordance with the specified guidelines, summarizing the project selection, dataset details, and the applied analysis. Additionally, a comprehensive presentation material that will convey the project's objectives, the rationale behind the dataset selection, the applied Exploratory Data Analysis (EDA) results, and key takeaways.
+
+## Team Members
+* Mehmetcan Yılmaz - 21061031
+* Ibrahim Rzazade - 23061904
+* Oğuzhan Ketenci - 20069703
+* Zümra Buse Uyur - 21069607
