@@ -1,4 +1,4 @@
-# group4_innovation_campus_samsung
+
 # Istanbul Air Quality Analysis: District-Based Pollution Investigation to Support SDG 3 and SDG 11
 
 ## 1) Overview
